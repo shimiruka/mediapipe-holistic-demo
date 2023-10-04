@@ -9,5 +9,5 @@ You can see the demo at [pages](https://shimiruka.github.io/mediapipe-holistic-d
 
 ## Notes
 
-According to [Holistic landmarks detection task guide]("https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker"), new holistic landmarks tasks will be uploaded soon.
+According to [Holistic landmarks detection task guide](https://developers.google.com/mediapipe/solutions/vision/holistic_landmarker), new holistic landmarks tasks will be uploaded soon.
 If new models are published, you should use them instead.
